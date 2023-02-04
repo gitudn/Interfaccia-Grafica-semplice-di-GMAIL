@@ -1,1 +1,0 @@
-# Interfaccia-Grafica-semplice-di-GMAIL
