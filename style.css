@@ -12,6 +12,12 @@ body
         margin: auto;
         margin-top: 31px;
     }
+#titolo-pagina{
+    text-align: center;
+    color: blanchedalmond;
+
+    
+}
 .logo{
     width: 87px;
     margin-bottom: -9px;
@@ -73,6 +79,7 @@ color: orange;
 
 footer{
     text-align: center;
+    margin-top: 3px;
 }
 .footergmail{
    font-weight: bold;
